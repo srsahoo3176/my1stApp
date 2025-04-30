@@ -2,6 +2,12 @@ a=1
 b=2
 c=3
 
+<<<<<<< Updated upstream
 story 131:
 i=1
 j=2
+=======
+story 121:
+x=1
+y=2
+>>>>>>> Stashed changes
